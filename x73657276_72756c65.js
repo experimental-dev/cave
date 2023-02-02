@@ -19,15 +19,15 @@ class x73657276_72756c65{
         */
         this.i72 = x72
         switch(this.i73.method){
-            case "DELETE": this.DELETE(this.i73,this.i72);
-            case "GET": this.GET(this.i73,this.i72);
-            case "POST":this.POST(this.i73,this.i72);
-            case "PUT": this.PUT(this.i73,this.i72);
+            case "\x44\x45\x4c\x45\x54\x45": this.x44454c455445(this.i73,this.i72);
+            case "\x47\x45\x54": this.x474554(this.i73,this.i72);
+            case "\x50\x4f\x53\x54":this.x504f5354(this.i73,this.i72);
+            case "\x50\x55\x54": this.x505554(this.i73,this.i72);
         }
     }
-    GET(){}
-    POST(){}
-    DELETE(){}
-    PUT(){}
+    x44454c455445(){}
+    x474554(){}
+    x504f5354(){}
+    x505554(){}
 }
 module.exports=x73657276_72756c65;
