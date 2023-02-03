@@ -56,7 +56,9 @@ class x73657276_72756c65{
             }catch(v66696c6574797065Error){
                 console.log(v66696c6574797065Error);
             }finally{
-                if(v66696c6574797065Error!=null,undefined){}
+                if(v66696c6574797065Error!=null,undefined){
+                    new notify(v66696c6574797065Error);
+                }
             }
         }
         function f61626f7574(){}
