@@ -25,9 +25,29 @@ class x73657276_72756c65{
             case "\x50\x55\x54": this.x505554(this.i73,this.i72);
         }
     }
-    x44454c455445(){}
-    x474554(){}
-    x504f5354(){}
-    x505554(){}
+    /**
+     * @author @experimental-dev
+     * @param {Request} s
+     * @param {Response} r
+    */
+    x44454c455445(s,r){}
+    /**
+     * @author @experimental-dev
+     * @param {Request} s
+     * @param {Response} r
+    */
+    x474554(s,r){}
+    /**
+     * @author @experimental-dev
+     * @param {Request} s
+     * @param {Response} r
+    */
+    x504f5354(s,r){}
+    /**
+     * @author @experimental-dev
+     * @param {Request} s
+     * @param {Response} r
+    */
+    x505554(){s,r}
 }
 module.exports=x73657276_72756c65;
