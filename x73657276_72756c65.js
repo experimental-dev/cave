@@ -49,15 +49,17 @@ class x73657276_72756c65{
         function f686f6d65(){
             var m6673 = require('\x66\x73');
             var v66696c6574797065 = ['\x2e\x61\x61\x63'];
+            var x617574;
             try{
                 for(let dhcp = 0; dhcp < v66696c6574797065.length; dhcp++){
                     if(s.url.endsWith==v66696c6574797065[dhcp]){}
                 }
             }catch(v66696c6574797065Error){
                 console.log(v66696c6574797065Error);
+                x617574=v66696c6574797065Error;
             }finally{
-                if(v66696c6574797065Error!=null,undefined){
-                    new notify(v66696c6574797065Error);
+                if(x617574!=null,undefined){
+                    new notify(x617574);
                 }
             }
         }
